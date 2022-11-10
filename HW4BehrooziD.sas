@@ -1,9 +1,3 @@
-/*********************************************/
-/* STAT 330, Fall 2022						 */
-/* Homework #4A         					 */
-/* Donya Behroozi and Grace Trenholme		 */
-/*********************************************/
-
 *1a;
 filename wolfFile '/home/u62368731/sasuser.v94/Homework/Observation Dates.csv';
 data wolf_obs;
